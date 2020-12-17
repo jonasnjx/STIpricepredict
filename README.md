@@ -1,2 +1,2 @@
-# STIpredict
-A program created in R to predict future stock prices of STI, based on categorical and continuous variables.
+# STIpricepredict
+A program created in R, with the deployment of regression models, decision trees and text analytics, to determine future prices changes of STI. 
